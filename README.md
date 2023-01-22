@@ -8,7 +8,11 @@ This is a rice I recently made, and it's my first one! To us ethis rice, just dr
 ## Dependencies needed!
 
 + **FontAwesome5**
-
++ **polybar**
++ **feh**
++ **i3-wm**
++ **rofi**
++ **picom**
 + **Python (2.x or 3.x)**
 + **Python dbus module**
 + **playerctl**
@@ -24,3 +28,7 @@ This is a rice I recently made, and it's my first one! To us ethis rice, just dr
 
 # **IMPORTANT**
 Remember to chmod **ALL THE SCRIPTS**!
+
+# Preview
+
+![Image](preview.png)
