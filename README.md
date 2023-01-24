@@ -3,7 +3,7 @@
 Hello!
 
 
-This is a rice I recently made, and it's my first one! To us ethis rice, just drag these folders into your .config, though make sure you have everything installed, and that you have provided the openweather-script an API key!
+This is a rice I recently made, and it's my first one! To use this rice, just drag these folders into your .config, though make sure you have everything installed, and that you have provided the openweather-script an API key!
 
 ## Dependencies needed!
 
