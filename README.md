@@ -7,6 +7,7 @@ This is a rice I recently made, and it's my first one! To us ethis rice, just dr
 
 ## Dependencies needed!
 
++ **JetBrains-Mono Font**
 + **FontAwesome5**
 + **polybar**
 + **feh**
@@ -28,7 +29,7 @@ This is a rice I recently made, and it's my first one! To us ethis rice, just dr
 
 A command to install most dependencies: 
 ```
-  sudo yay -S ttf-font-awesome-5 polybar feh i3 rofi picom dbus-python playerctl jq xorg-xinput awk speedtest-cli
+  sudo yay -S ttf-jetbrains-mono ttf-font-awesome-5 polybar feh i3 rofi picom dbus-python playerctl jq xorg-xinput awk speedtest-cli
 ```
 
 I left out some dependencies since you might already have these installed, or they can't be installed through a package manager.
